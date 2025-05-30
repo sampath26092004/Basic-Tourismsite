@@ -6,7 +6,7 @@ A minimalistic web-based tour guide interface. Designed for simplicity and speed
 css
 Copy
 Edit
-GO-TOUR/
+GO-TOUR
 ├── GO-TOUR.html   ← Main HTML file
 └── GO-TOUR.css    ← Custom styling for layout and visuals
 
