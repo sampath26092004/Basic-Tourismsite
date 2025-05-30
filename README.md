@@ -7,8 +7,8 @@ css
 Copy
 Edit
 GO-TOUR
-├── GO-TOUR.html   ← Main HTML file
-└── GO-TOUR.css    ← Custom styling for layout and visuals
+|-> GO-TOUR.html   ← Main HTML file
+|-> GO-TOUR.css    ← Custom styling for layout and visuals
 
 🌐 How It Works
 1. HTML (GO-TOUR.html)
