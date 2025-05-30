@@ -22,6 +22,9 @@ A minimalistic web-based tour guide interface. Designed for simplicity and speed
 - Modify `GO-TOUR.html` to update content or structure.
 - Tweak `GO-TOUR.css` to change colors, fonts, or layout.
 
+## Open GO-TOUR
+https://tourismsite26.ccbp.tech/
+
 ## License
 
 This project is free to use and modify. Attribution appreciated but not required.
