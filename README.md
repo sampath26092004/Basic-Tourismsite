@@ -1,30 +1,11 @@
-🔍 Project Overview
-GO-TOUR is a minimalist static web page, designed with a single HTML file (GO-TOUR.html) and a corresponding CSS stylesheet (GO-TOUR.css). 
+# GO-TOUR
+
 A minimalistic web-based tour guide interface. Designed for simplicity and speed, this project includes:
 
-🧱 File Structure
-css
-Copy
-Edit
-GO-TOUR
-|-> GO-TOUR.html   ← Main HTML file
-|-> GO-TOUR.css    ← Custom styling for layout and visuals
+## Contents
 
-🌐 How It Works
-1. HTML (GO-TOUR.html)
--> Acts as the backbone of the webpage.
--> Includes structural tags like <header>, <nav>, <section>, <footer>.
--> Likely sections include an introduction, list of tours, or highlights.
-
-3. CSS (GO-TOUR.css)
-
-> Styles the layout, typography, colors, and responsiveness.
-
-> No external frameworks (e.g., Bootstrap) detected—this is handcrafted CSS.
-
-> No JavaScript
-
-> No interactivity, transitions, or API integrations.
+- `GO-TOUR.html` – Core HTML structure of the web page.
+- `GO-TOUR.css` – Stylesheet for layout and design aesthetics.
 
 ## Features
 
