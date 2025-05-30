@@ -12,11 +12,11 @@ GO-TOUR
 
 🌐 How It Works
 1. HTML (GO-TOUR.html)
-> Acts as the backbone of the webpage.
+ Acts as the backbone of the webpage.
 
-> Includes structural tags like <header>, <nav>, <section>, <footer>.
+ Includes structural tags like <header>, <nav>, <section>, <footer>.
 
-> Likely sections include an introduction, list of tours, or highlights.
+ Likely sections include an introduction, list of tours, or highlights.
 
 2. CSS (GO-TOUR.css)
 
